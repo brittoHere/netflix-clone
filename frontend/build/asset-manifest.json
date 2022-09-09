@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.65e2efca.css",
+    "main.js": "/static/js/main.2887b922.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/login__banner.webp": "/static/media/login__banner.9e2cd7c574db0f1a7314.webp",
+    "static/media/netflix_banner.webp": "/static/media/netflix_banner.73c245f791b1b6100e0d.webp",
+    "static/media/netflix_logo-transperent.png": "/static/media/netflix_logo-transperent.d58ff750be8fd48d8912.png",
+    "index.html": "/index.html",
+    "main.65e2efca.css.map": "/static/css/main.65e2efca.css.map",
+    "main.2887b922.js.map": "/static/js/main.2887b922.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65e2efca.css",
+    "static/js/main.2887b922.js"
+  ]
+}

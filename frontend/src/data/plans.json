@@ -1,0 +1,17 @@
+[
+    {
+        "id":1,
+        "title":"Basic",
+        "data":[{"quality":"480p","devices":"1","price":"199/month"}]
+    },
+    {
+        "id":2,
+        "title":"Standard",
+        "data":[{"quality":"720p","devices":"2","price":"299/month"}]
+    },
+    {
+        "id":3,
+        "title":"Premium",
+        "data":[{"quality":"4k","devices":"4","price":"500/month"}]
+    }
+]

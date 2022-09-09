@@ -1,0 +1,92 @@
+.profile__container{
+    height:100vh;
+    color:white;
+    display: flex;
+    flex-direction: column;
+    width:50%;
+    margin-left:auto;
+    margin-right:auto;
+    padding-top: 8%;
+    max-width: 800px;
+}
+
+.profile__container > h1{
+    font-size: 60px;
+    font-weight: 400;
+    border-bottom: 1px solid #282c2d;
+    margin-bottom: 20px;
+}
+
+.profile__details{
+    color: white;
+    margin-left: 25px;
+    flex:1;
+}
+
+.profile__details > h2{
+    background-color: gray;
+    padding:15px;
+    font-size: 15px;
+    padding-left: 20px;
+}
+
+.profile__info{
+    display: flex;
+}
+
+.profile__info > img{
+    height:100px;
+}
+
+.profile__signout{
+    padding:10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+    margin-top: 5%;
+    width:100%;
+    background-color: rgba(0,0,0,0.8);
+    border:none;
+    color:#fff;
+    font-weight: 400;
+}
+
+.upgrade{
+    margin-top:5%;
+    padding:10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+    width:100%;
+    background-color: #e50914;
+    border: none;
+    color:#fff;
+    font-weight: 400;
+}
+
+.profile__signout:hover{
+    background-color: rgba(0,0,0,0.5);
+}
+
+.plans{
+    margin-top: 20px;
+}
+
+.plans > h3{
+    border-bottom: 1px solid #282c2d;
+    padding-bottom: 10px;
+}
+
+.plan__list{
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.plan__list:hover{
+    background-color: gray;
+}
+
+.set__list{
+    background-color: gray;
+}
+
+
+
